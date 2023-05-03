@@ -1,0 +1,24 @@
+{
+  "name": "ch18_nosql-socialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etapm/Ch18_NoSQL-SocialNetwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etapm/Ch18_NoSQL-SocialNetwork/issues"
+  },
+  "homepage": "https://github.com/etapm/Ch18_NoSQL-SocialNetwork#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
