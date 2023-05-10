@@ -1,5 +1,7 @@
 # Ch18_NoSQL-SocialNetwork
 
+Walk through video link [here](https://drive.google.com/file/d/1s9KtvOG9ZvGN_K_mfIC2HBtLr6Q_SeVG/view)
+
 This project uses the following technologies:
 
 - Node.js
